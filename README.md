@@ -1,13 +1,7 @@
 # cf-redirect-script
 A Cloudflare redirect script that can be used to simulate a CF that guides the user to click on it and then redirect to the link they want the user to open
 
-
-# Cloudflare Human Verification Simulation
-
-## Overview
-This is a front - end simulation of the Cloudflare human verification interface. It provides a simple and intuitive way for users to verify that they are human. Once the verification is successful, the user will be redirected to GitHub.
-
-## Technical Features
+## Features
 
 ### HTML Structure
 - The HTML structure is centered around a `div` with the class `cf - verification`, which contains all the verification elements.
