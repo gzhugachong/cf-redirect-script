@@ -33,7 +33,7 @@ A Cloudflare redirect script that can be used to simulate a CF that guides the u
     - The `checked` class is removed from the `cf - box` element, and the text content of the `cf - text` element is changed back to "Verify you are human".
 
 ## Usage
-1. Replace the placeholder `data:image/png;base64,这里替换为你的标志base64代码` in the `style` attribute of the `cf - logo` element with the actual base64 - encoded image of the Cloudflare logo.
+1. Replace the placeholder `data:image/png;base64` in the `style` attribute of the `cf - logo` element with the actual base64 - encoded image of the Cloudflare logo.
 2. Open the HTML file in a web browser.
 3. Check the checkbox to complete the verification. After successful verification, you will be redirected to GitHub.
 
