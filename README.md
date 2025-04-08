@@ -39,3 +39,19 @@ A Cloudflare redirect script that can be used to simulate a CF that guides the u
 
 ## Compatibility
 This code is compatible with modern web browsers that support HTML5, CSS3, and JavaScript. It is designed to be responsive and should work well on both desktop and mobile devices.
+
+
+To demonstrate the effect, you can put this script in an email and send it to the target, and after the target clicks, it will be redirected to the construction link
+
+![image](https://github.com/user-attachments/assets/90a3ff74-eb9a-4801-afe8-c5a9aed88f4d)
+
+
+![image](https://github.com/user-attachments/assets/0ca6b183-5cb8-47b8-92dd-1e8bef601e4f)
+
+Here redirects to github
+
+![image](https://github.com/user-attachments/assets/e1ce3409-7e37-444b-8016-f1a7fcaeeede)
+
+
+Of course, this is just a rough script, which can be used to improve the authenticity of CF and encrypt jump links and functions, such as saving the above as ASCII code and storing it in an array, and then calling it
+
